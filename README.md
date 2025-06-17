@@ -1,5 +1,5 @@
 # Royal Cafe Resturant
-Website - [https://nithilald.github.io/dulannithilaliyanarachchi.github.io/](https://royalcaferesturant.infinityfreeapp.com/)
+Website - [https://royalcaferesturant.infinityfreeapp.com/](https://royalcaferesturant.infinityfreeapp.com/)
 
 ## Overview
 The **Royal Cafe Restaurant Website** is a full-stack web application developed as a group project for our first-year Web Development module. The purpose of this project is to apply the fundamentals of front-end and back-end web technologies in building a professional, responsive website for a fictional restaurant - Royal Cafe. The website provides a smooth user experience where customers can browse the menu, learn about the restaurant, view photo galleries, and contact the restaurant through a functional form connected to a PHP back-end.
